@@ -525,9 +525,9 @@
 				tr {
 					border-bottom: solid 1px _palette(border);
 
-					&:nth-child(2n - 1) {
-						background: _palette(border-bg);
-					}
+					// &:nth-child(2n - 1) {
+					// 	background: _palette(border-bg);
+					// }
 				}
 			}
 
