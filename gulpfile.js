@@ -1,10 +1,8 @@
 var gulp = require('gulp');
 var utils = require('gulp-util');
 var sass = require('gulp-sass');
-var server = require('gulp-server-livereload');
 var connect = require('gulp-connect');
 var rimraf = require('rimraf');
-var historyApiFallback = require('connect-history-api-fallback');
 
 // Build directory
 var build = 'build';
