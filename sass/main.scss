@@ -459,6 +459,7 @@
 
 				&:first-child {
 					padding-left: 0;
+          padding-top: 1.5em;
 				}
 
 				a, span {
@@ -732,12 +733,12 @@
 
 		&:before,
 		&:after {
-			background: _palette(border);
-			content: '';
-			left: 50%;
-			position: absolute;
-			width: 1px;
-			z-index: 0;
+			// background: _palette(border);
+			// content: '';
+			// left: 50%;
+			// position: absolute;
+			// width: 1px;
+			// z-index: 0;
 		}
 
 		&:before {
