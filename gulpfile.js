@@ -3,9 +3,13 @@ var utils = require('gulp-util');
 var sass = require('gulp-sass');
 var connect = require('gulp-connect');
 var rimraf = require('rimraf');
+var gulpif = require('gulp-if');
+var sourcemaps = require('gulp-sourcemaps');
 
 // Build directory
 var build = 'build';
+
+var PROD = utils.env.production;
 
 var copyfiles = ['public/**/*'];
 
@@ -21,7 +25,9 @@ gulp.task('copyfiles', function() {
 // Coplies scss files to css
 gulp.task('sass', function() {
   return gulp.src('sass/**/*')
+    .pipe(gulpif(!PROD, sourcemaps.init()))
     .pipe(sass().on('error', sass.logError))
+    .pipe(gulpif(!PROD, sourcemaps.write()))
     .pipe(gulp.dest(build + '/assets/css/'))
     .pipe(connect.reload());
 });
@@ -35,7 +41,7 @@ gulp.task('clean', function() {
 gulp.task('webserver', function() {
   connect.server({
     root: build,
-    livereload: true,
+    livereload: !PROD,
     port: 8181
   });
 });
