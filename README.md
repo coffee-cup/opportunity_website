@@ -1,3 +1,10 @@
+Opportunity
+======
+
+Complex reminder system
+
+## Install the website with these instructions
+
 View it using `live-server`
 ---
 1. Go to [node.js](https://nodejs.org/en/download/) and pick an installer
