@@ -1,4 +1,4 @@
-Opportunity App webpage template
+Opportunity App webpage
 ===
 We've used html5up to make a quick landing page
 
