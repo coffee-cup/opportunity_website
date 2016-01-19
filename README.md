@@ -5,8 +5,8 @@ Complex reminder system
 
 ## Install the website with these instructions
 
-View it using `live-server`
----
+Use [live server](https://github.com/tapio/live-server) to run a local live reload server for development. In production Nginx serves the `public` directory.
+
 1. Go to [node.js](https://nodejs.org/en/download/) and pick an installer
 2. Clone this repo with `git clone https://github.com/coffee-cup/opportunity_website.git`
 3. Navigate to `opportunity_website` and install npm packages with `npm install`
