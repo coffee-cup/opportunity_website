@@ -1,0 +1,15 @@
+{
+  "name": "opportunity_website",
+  "version": "1.0.0",
+  "description": "Website for SENG 321 Oppurtunity app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^0.9.0"
+  }
+}
