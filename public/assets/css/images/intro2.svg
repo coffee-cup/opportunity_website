@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1002px" viewBox="0 0 1024 1002" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>intro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M1150,500.5 L150,1001"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(0.000000, -15.000000)">
+            <g id="intro" sketch:type="MSLayerGroup" transform="translate(-863.000000, 15.000000)">
+                <path d="M2100,1001 L0,750.75" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2100,1001 L0,400.4" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2100,1001 L0,0" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2100,1001 L750,0" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2100,1001 L1300,0" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2100,1001 L1750,0" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2750,500.5 L1750,1001" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2500,500.5 L1500,1001" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M2150,500.5 L1150,1001" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M1700,500.5 L700,1001" id="Shape" stroke="#F0F0F0" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <g id="Shape">
+                    <use stroke="#F0F0F0" stroke-width="1" fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use stroke="none" fill="none" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
