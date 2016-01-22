@@ -1,0 +1,14 @@
+.font-awesome {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important;
+}
+
+.trow-disabled {
+  td {
+    opacity: 0.5;
+  }
+}
