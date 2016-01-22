@@ -40,3 +40,7 @@ Sass files are located in the `sass` folder and will be compiled to CSS automatt
 ## HTML
 
 There are 3 HTML files used. The current setup is not ideal (but it works) as each HTML file duplicates the `<head>` tag and sidebar. It would be best if a base template was used and the HTML for the current page you're on is inserted into it.
+
+- Home page : `public/index.html`
+- Supplier Deliverables : `public/supplier/index.html`
+- Client Deliverables : `public/client/index.html`
