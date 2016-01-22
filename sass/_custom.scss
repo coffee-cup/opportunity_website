@@ -12,3 +12,9 @@
     opacity: 0.5;
   }
 }
+
+.hide-on-small {
+  @include breakpoint(xsmall) {
+    display: none !important;
+  }
+}
