@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="124px" height="78px" viewBox="0 0 124 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-526.000000, -359.000000)" stroke="#FFFFFF" stroke-width="12.8205128">
+            <g id="Logo" sketch:type="MSLayerGroup" transform="translate(587.899994, 398.000000) rotate(90.000000) translate(-587.899994, -398.000000) translate(555.999994, 343.000000)">
+                <path d="M36.5911765,36.6666667 C16.3824277,36.6666667 0,53.0828925 0,73.3333333 C0,93.5837742 16.3824277,110 36.5911765,110 L36.5911765,110" id="Oval-2" sketch:type="MSShapeGroup"></path>
+                <path d="M27.2088235,73.3333333 L27.2088235,73.3333333 C47.4175723,73.3333333 63.8,56.9171075 63.8,36.6666667 C63.8,16.4162258 47.4175723,0 27.2088235,0" id="Oval-2-Copy" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
