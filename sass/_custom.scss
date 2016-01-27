@@ -57,3 +57,10 @@
   margin-top: -1em;
   text-align: right;
 }
+
+// Change background position of images on small to make better appear on mobile
+.jake-image {
+  @include breakpoint(xsmall) {
+    background-position: 60% 50%;
+  }
+}
