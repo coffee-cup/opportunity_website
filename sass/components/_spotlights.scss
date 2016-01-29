@@ -66,15 +66,20 @@
 			}
 
 			&:nth-child(1) {
+        background-color: white;
 			}
 
 			&:nth-child(2) {
-				background-color: rgba(0,0,0,0.05);
+				background-color: #E8E8E8;
 			}
 
 			&:nth-child(3) {
-				background-color: rgba(0,0,0,0.1);
+				background-color: white;
 			}
+
+      &:nth-child(4) {
+        background-color: #E8E8E8;
+      }
 
 			&.inactive,
 			body.is-loading & {

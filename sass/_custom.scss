@@ -25,6 +25,54 @@
   height: 1em;
 }
 
+.logo-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 3em;
+  margin-bottom: 1em;
+}
+
 .tcenter {
   text-align: center;
+}
+
+.white-bg {
+  background-color: white;
+}
+
+.lightgrey-bg {
+  background-color: #E8E8E8;
+}
+
+.white-bg-i {
+  background-color: white !important;
+}
+
+.dark-text {
+  color: rgb(50, 50, 50);
+}
+
+.quote-author {
+  margin-top: -1em;
+  padding-left: 2em;
+  // text-align: right;
+}
+
+// Change background position of images on small to make better appear on mobile
+.jake-image {
+  @include breakpoint(xsmall) {
+    background-position: 60% 50%;
+  }
+}
+
+.short {
+  font-weight: bold;
+  margin-top: -1em;
+  margin-bottom: 0.5em;
+  color: grey;
+}
+
+a.a-dark:hover {
+  color: _palette(accent1);
 }
